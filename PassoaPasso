@@ -1,0 +1,9 @@
+- Primeiro fazer instalação: npm i cypress --save-dev
+                             npx cypress verify (verificar se a instalação deu certo)
+                             npm uninstall nome do que for desinstalar 
+                             npx nome jest por exemplo (para executar)
+                             npx cypress open (para abrir o navegador)
+                             npx cypress run (abrir o teste no terminal do Vscode)
+
+- Colocar a base URL no cypress.config.json (htts://www.blazedemo.com)
+-                             
